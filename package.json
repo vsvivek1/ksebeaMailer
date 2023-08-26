@@ -1,0 +1,9 @@
+{
+  "name": "ksebeaMailer",
+  "version": "1.0.0",
+  "description": "mailer for ksebea bulk mailer",
+  "main": "index.js",
+  "repository": "https://github.com/vsvivek1/ksebeaMailer.git",
+  "author": "vivek",
+  "license": "MIT"
+}
